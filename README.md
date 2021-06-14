@@ -1,2 +1,2 @@
 # portifolio-majuuzera
-Meu portifólio.
+Meu portifólio. .
