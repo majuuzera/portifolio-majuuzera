@@ -3,5 +3,5 @@ $(document ).ready(function(){
     e.preventDefault()
 
     $('#modal-info').modal('show')
-  }
-}
+  })
+})
