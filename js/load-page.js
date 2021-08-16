@@ -2,6 +2,11 @@ $(document ).ready(function(){
   $('a').click(function(e){
     e.preventDefault()
 
-    $('#modal-info').modal('show')
+    let page = $(this).attr('href')
+
+    $('.modal-tittle').empty()
+    $('.modal-body').empty()
+
+    alert(page)
   })
 })
